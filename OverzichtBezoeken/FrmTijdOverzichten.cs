@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ProefExamen
+namespace OverzichtBezoeken
 {
-    public partial class Form1 : Form
+    public partial class FrmTijdOverzichten : Form
     {
-        public Form1()
+        public FrmTijdOverzichten()
         {
             InitializeComponent();
         }

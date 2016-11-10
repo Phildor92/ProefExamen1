@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ProefExamen
+namespace OverzichtBezoeken
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace ProefExamen
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmLedenSportclubKlasse());
+            Application.Run(new FrmNotaris());
         }
     }
 }
